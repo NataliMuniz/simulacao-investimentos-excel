@@ -1,7 +1,7 @@
 # Simulação de Investimentos em Excel
 
-Este projeto foi desenvolvido como parte do curso de Excel com Inteligência Artificial.
-Consiste em uma planilha que simula investimentos com base em aportes mensais e tempo de aplicação. 
+Este projeto foi desenvolvido como parte do curso de Excel.  
+Consiste em uma planilha que simula investimentos com base em aportes mensais e tempo de aplicação.
  
 
 ✅ Funcionalidades principais:
