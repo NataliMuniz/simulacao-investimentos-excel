@@ -19,6 +19,6 @@ Projeções de crescimento para diferentes cenários de tempo:
 Ferramenta simples, visual e intuitiva para análise de decisões financeiras.
 
 
-## 📚 Autor(a)
+## 📚 Autora
 
 Desenvolvido por Natali Muniz como parte do curso de Excel com foco em aplicações práticas.
